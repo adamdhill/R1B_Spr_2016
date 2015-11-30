@@ -13,7 +13,7 @@
 4. Nozick 
 
 
-##Section 2: Tools 
+##Section 2: Traditional Tools 
 *How governments achieve their purposes* 
 
 Joseph Raz quote: positive law is like a sharp kinfe, can be used for life saving surgery or bad
@@ -22,17 +22,26 @@ Lon Fuller, How to fail to make law (Positivism)
 
 John Finnis (natural law) 
 
-Law and economics - incentives 
+
+##Section 3: Background Conditions 
+
+Economic approach: incentives 
+
+Behavioral economics: Ariely 
 
 Coase 
 
 Two views from the cathedral 
 
+##Section 4: New Tools 
+
 Sunstein and Thaler, Nudge 
 
-Dan Ariely 
+##Section 5: Reevaluating Purposes and Improving Tools 
+Literate programming, Donald Knuth
 
-##Section 3: Case Studies 
+
+##Section 6: Case Studies 
 *Evaluating how tools worked in practice*
 
 Affordable Care Act implementation 
@@ -40,6 +49,3 @@ Affordable Care Act implementation
 New York City soda law
 
 Israeli day care study - "A fine is a price" 
-
-##Section 4: Reevaluating Purposes and Improving Tools 
-Literate programming, Donald Knuth
