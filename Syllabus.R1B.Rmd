@@ -29,8 +29,13 @@ Two views from the cathedral
 Sunstein and Thaler, Nudge 
 
 ##Case Studies 
-*Examples of uses and misuses of tools* 
+*Evaluating how tools worked in practice*
 
+Affordable Care Act implementation 
+
+New York City soda law
+
+Israeli day care study - "A fine is a price" 
 
 ##Improving Current Tools 
 
