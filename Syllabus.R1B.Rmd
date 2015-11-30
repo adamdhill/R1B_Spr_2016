@@ -5,7 +5,7 @@
 
 
 ##Purpose of Government 
-Why do we have government, anyway? 
+*Why do we have government, anyway?* 
 
 1. Hobbes
 2. Locke
@@ -14,11 +14,24 @@ Why do we have government, anyway?
 
 
 ##Tools 
-How governments achieve their purposes 
+*How governments achieve their purposes* 
 
+1. Traditional Law 
+
+Lon Fuller, How to fail to make law (Positivism)
+
+John Finnis (natural law) 
+
+Law and economics - incentives 
+
+2. Coase 
+
+Two views from the cathedral 
+
+3. Nudge 
 
 ##Case Studies 
-Examples of uses and misuses of tools 
+*Examples of uses and misuses of tools* 
 
 
 ##Improving Current Tools 
