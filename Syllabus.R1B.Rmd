@@ -4,7 +4,7 @@
 **Spring 2016**
 
 
-##Purpose of Government 
+##Section 1: Purpose of Government 
 *Why do we have government, anyway?* 
 
 1. Hobbes
@@ -13,7 +13,7 @@
 4. Nozick 
 
 
-##Tools 
+##Section 2: Tools 
 *How governments achieve their purposes* 
 
 Lon Fuller, How to fail to make law (Positivism)
@@ -28,7 +28,7 @@ Two views from the cathedral
 
 Sunstein and Thaler, Nudge 
 
-##Case Studies 
+##Section 3: Case Studies 
 *Evaluating how tools worked in practice*
 
 Affordable Care Act implementation 
@@ -37,6 +37,6 @@ New York City soda law
 
 Israeli day care study - "A fine is a price" 
 
-##Improving Current Tools 
+##Section 4: Improving Current Tools 
 
 Literate programming, Donald Knuth
