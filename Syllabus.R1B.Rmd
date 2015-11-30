@@ -33,3 +33,5 @@ Sunstein and Thaler, Nudge
 
 
 ##Improving Current Tools 
+
+Literate programming, Donald Knuth
