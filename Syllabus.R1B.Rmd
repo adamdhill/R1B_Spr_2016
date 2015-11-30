@@ -37,6 +37,5 @@ New York City soda law
 
 Israeli day care study - "A fine is a price" 
 
-##Section 4: Improving Current Tools 
-
+##Section 4: Reevaluating Purposes and Improving Tools 
 Literate programming, Donald Knuth
